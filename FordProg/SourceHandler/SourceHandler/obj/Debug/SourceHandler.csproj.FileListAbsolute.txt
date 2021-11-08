@@ -1,0 +1,7 @@
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\bin\Debug\SourceHandler.exe.config
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\bin\Debug\SourceHandler.exe
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\bin\Debug\SourceHandler.pdb
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\obj\Debug\SourceHandler.csprojAssemblyReference.cache
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\obj\Debug\SourceHandler.csproj.CoreCompileInputs.cache
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\obj\Debug\SourceHandler.exe
+C:\Users\Scy\Desktop\FordProg\SourceHandler\SourceHandler\obj\Debug\SourceHandler.pdb

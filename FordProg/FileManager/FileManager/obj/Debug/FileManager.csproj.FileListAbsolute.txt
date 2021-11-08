@@ -1,0 +1,7 @@
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\bin\Debug\FileManager.exe.config
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\bin\Debug\FileManager.exe
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\bin\Debug\FileManager.pdb
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\obj\Debug\FileManager.csprojAssemblyReference.cache
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\obj\Debug\FileManager.csproj.CoreCompileInputs.cache
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\obj\Debug\FileManager.exe
+C:\Users\Scy\Desktop\FordProg\FileManager\FileManager\obj\Debug\FileManager.pdb

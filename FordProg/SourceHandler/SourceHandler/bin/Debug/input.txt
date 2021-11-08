@@ -1,0 +1,2 @@
+"{//ez itt egy komment ami jó lenne ha eltűnne \n /* adwdwadawdawdajjridjriil ez meg itt tobbsoros comment */ try { StreamReader sr = new StreamReader(File.OpenRead(path)); sourceCode = sr.ReadToEnd(); content = sourceCode; sr.Close(); } catch (IOException e) { Console.WriteLine(e.Message); }"{ //jefjsefi siefisefj 
+try{  StreamReader sr = new StreamReader(File.OpenRead(path)); sourceCode =  sr.ReadToEnd(); content = sourceCode;  sr.Close();   }catch (IOException e){  Console.WriteLine(e.Message);  }"

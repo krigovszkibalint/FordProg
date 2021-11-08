@@ -1,0 +1,2 @@
+"{try{StreamReader sr=new StreamReader(File.OpenRead(path)); sourceCode=sr.ReadToEnd(); content=sourceCode; sr.Close();}catch (IOException e){Console.WriteLine(e.Message);}"
+
